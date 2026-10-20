@@ -85,6 +85,4 @@ This model learns from historical weather patterns. It does not use live weather
 - Compare different regression algorithms.
 - Integrate live weather data for improved forecasting.
 
-## Author
 
-Created as a beginner-friendly Machine Learning project using Python.
