@@ -1,6 +1,6 @@
 # Weather Prediction ML
 
-A simple Machine Learning project that predicts the next day's maximum temperature in Indore, Madhya Pradesh, using historical weather data.
+A simple Machine Learning project that predicts the next day's maximum temperature in Indore, using historical weather data.
 
 ## About the Project
 
